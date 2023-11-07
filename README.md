@@ -11,4 +11,6 @@ It uses the Swing framework for generating and building feature rich GUI compone
 
 ![Screenshot (1942)](https://github.com/CuriousPersona/JavaVisuals_project/assets/96737538/c1fd7177-5901-4a0d-add0-a27ec70bfec6)
 
+The project was developed using the JetBrains' intellij IDE (2023 community edition)
+
 
